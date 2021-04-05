@@ -1,0 +1,8 @@
+.input-row {
+  display: flex;
+}
+
+.input-row p {
+  padding-top: 30px;
+  padding-left: 20px;
+}

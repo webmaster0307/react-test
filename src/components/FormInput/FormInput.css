@@ -1,0 +1,13 @@
+.input-field {
+  margin: 20px 0;
+}
+
+.input-field > label {
+  margin-right: 20px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.input-field .radio-input {
+  display: inline;
+}
